@@ -1,0 +1,161 @@
+body{
+    background-color: aqua solid;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+.container-fluid{
+    border-radius: 32px;
+    border-width: 5px;
+    margin: 7px;
+    padding: 0px;
+}
+
+.img-fluid#headimage{
+  
+
+}
+
+
+.container-fluid#firstdiv {
+    padding: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+}
+
+.img-fluid#profilepic {
+    width: 769px;
+    height: 750px;
+    left: 500px;
+    top: -24px;
+    position: relative;
+    
+    
+}
+
+h1#nombre{
+    position: absolute;
+width: 900px;
+height: 138px;
+left: 122px;
+top: 70px;
+padding-top: 25px;
+
+font-family: 'Cousine';
+font-style: normal;
+font-weight: 700;
+font-size: 140px;
+line-height: 120px;
+
+color: #000000;
+    
+}
+
+h2{
+    color: black;
+}
+h2#titulo{
+    position: absolute;
+width: 385px;
+height: 93px;
+left: 122px;
+top: 350px;
+
+/* SUBTITULOS */
+
+font-family: 'Cousine';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #000000;
+
+}
+
+h3{
+    color: black    
+}
+
+h3#licenciatura{
+    position: absolute;
+width: 385px;
+height: 93px;
+left: 122px;
+top: 560px;
+
+/* SUBTITULOS */
+
+font-family: 'Cousine';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+
+color: #000000;
+   
+}
+
+h4{
+    color: #DAC4F7;
+}
+
+p{
+    color: black;
+}
+
+a#contact {
+position: static;
+
+}
+
+a.nav-link{
+    
+    
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 74.4%;
+    /* or 36px */
+    
+    text-align: center;
+    letter-spacing: -0.06em;
+    padding: 25px;
+    
+    color: #FFFFFF; 
+}
+
+img#linkedin {
+    position: relative;
+    height: 40px;
+left: 1150px;
+
+
+/* Portfolio */
+
+color: #46494C;
+}
+
+img#instagram {
+    position: relative;
+    height: 40px;
+left: 1160px;
+
+
+/* Portfolio */
+
+color: #46494C;
+}
+img#login {
+    position: relative;
+    height: 40px;
+left: 1170px;
+
+
+/* Portfolio */
+
+color: #46494C;
+}
